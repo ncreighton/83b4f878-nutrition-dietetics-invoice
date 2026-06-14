@@ -1,2 +1,28 @@
-# 83b4f878-nutrition-dietetics-invoice
-Generate invoices, accept payments, track revenue, and automate receipts for Nutrition &amp; Dietetics. All-in-one financial management for Nutrition &amp; Dietetics sites.
+# Nutrition & Dietetics Invoice and Payment WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x228rbHh2k41deavOcZe15)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x228rbHh2k41deavOcZe15)
+
